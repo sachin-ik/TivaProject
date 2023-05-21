@@ -1,0 +1,17 @@
+[
+{
+  "directory": "C:/Data/statemachine/build",
+  "command": "E:\\00_ARM\\gcc-arm-11.2-2022.02-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -IC:/Data/statemachine/ek-tm4c123gxl -IC:/Data/statemachine/CMSIS/include -IC:/Data/statemachine/CMSIS -g -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -fdata-sections -ffunction-sections -Wall -O0 -g3 -std=c99 -o CMakeFiles\\TivaProject.elf.dir\\main.c.obj -c C:\\Data\\statemachine\\main.c",
+  "file": "C:\\Data\\statemachine\\main.c"
+},
+{
+  "directory": "C:/Data/statemachine/build",
+  "command": "E:\\00_ARM\\gcc-arm-11.2-2022.02-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -IC:/Data/statemachine/ek-tm4c123gxl -IC:/Data/statemachine/CMSIS/include -IC:/Data/statemachine/CMSIS -g -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -fdata-sections -ffunction-sections -Wall -O0 -g3 -std=c99 -o CMakeFiles\\TivaProject.elf.dir\\bsp.c.obj -c C:\\Data\\statemachine\\bsp.c",
+  "file": "C:\\Data\\statemachine\\bsp.c"
+},
+{
+  "directory": "C:/Data/statemachine/build",
+  "command": "E:\\00_ARM\\gcc-arm-11.2-2022.02-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -IC:/Data/statemachine/ek-tm4c123gxl -IC:/Data/statemachine/CMSIS/include -IC:/Data/statemachine/CMSIS -g -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -fdata-sections -ffunction-sections -Wall -O0 -g3 -std=c99 -o CMakeFiles\\TivaProject.elf.dir\\ek-tm4c123gxl\\system_TM4C123GH6PM.c.obj -c C:\\Data\\statemachine\\ek-tm4c123gxl\\system_TM4C123GH6PM.c",
+  "file": "C:\\Data\\statemachine\\ek-tm4c123gxl\\system_TM4C123GH6PM.c"
+}
+]
